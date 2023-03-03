@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -  Power BI Dashboard Visualization           |  -  This repository holds the Power BI dashboard for Sales Data Analysis           |https://github.com/Vinnie76/POWER-BI-VISUALIZATION.git      |
+| 2 |  -  Stochastic-Gradient-Descent-SGD-Classifier-Improvement           |  -    The repository is an improvement of the accuracy of the Stochastic Gradient Descent (SGD) Classifier by adding shifted images to the training set.         | https://github.com/Vinnie76/tochastic-Gradient-Descent-SGD-Classifier-Improvement.git       |
+| 3 |  - Tuned-Stochastic-Gradient-Descent-model            |  -   Repository of a tuned Stochastic Gradient Descent model so you can compare it with the Random Forest model created          | https://github.com/Vinnie76/Tuned-Stochastic-Gradient-Descent-model-.git|
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
